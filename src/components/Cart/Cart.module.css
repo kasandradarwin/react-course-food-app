@@ -3,14 +3,14 @@
     margin: 0;
     padding: 0;
     max-height: 20rem;
-    overflow: auto;
+    overflow: scroll; 
 }
 
 .total {
-    display: flex;
-    justify-content: space-between;
+    display: flex; 
+    justify-content: space-between; 
     align-items: center;
-    font-weight: bold;
+    font-weight: bold; 
     font-size: 1.5rem;
     margin: 1rem 0;
 }
